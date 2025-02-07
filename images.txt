@@ -2,4 +2,5 @@
 #mysql:8.0.19
 #redis:5.0
 #anapsix/alpine-java:8_server-jre_unlimited
-docker.io/library/nginx:latest
+#docker.io/library/nginx:latest
+docker.elastic.co/elasticsearch/elasticsearch:7.17.9
